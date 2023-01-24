@@ -1,4 +1,4 @@
-Um buscador de CEPs criado com as tecnoligias:
+Um buscador de CEPs criado com as tecnologias:
 - REACTJS, para a construção de toda a interface;
 - Biblioteca Axios, para fazer o uso da API ViaCEP;
 
